@@ -5,3 +5,5 @@ if a=="Dhoni":
     print("no")
 if a=="ddd":
     print("no")
+if a=="dhonij":
+    print("no")
