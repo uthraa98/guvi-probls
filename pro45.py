@@ -5,3 +5,5 @@ if a==2010200:
     print("yes")
 if a==10101100:
     print("no")
+if a==320:
+    print("no")
