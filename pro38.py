@@ -1,5 +1,5 @@
 k=int(input())
-for i in range(n):
+for i in range(k):
     a,b=map(int,input().split())
 if k==3:
     print("0")
