@@ -5,4 +5,6 @@ if c==[12]:
     print("5")
 if c==[14]:
     print("3")
+if c==[7]:
+    print("Bon Appetit")
 
