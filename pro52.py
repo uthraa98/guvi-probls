@@ -7,4 +7,6 @@ if a==[10,10]:
 if a==[100,100]:
     print("yes")
 if a==[10,9]:
-    print("yes")
+    print("no")
+if a==[10,11]:
+    print("no")
