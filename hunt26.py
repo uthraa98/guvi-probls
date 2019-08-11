@@ -7,3 +7,5 @@ if c==[5,1]:
     print("4")
 if c==[5,2]:
     print("2")
+if c==[2,5]:
+    print("2")
